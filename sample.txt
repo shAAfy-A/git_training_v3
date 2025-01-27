@@ -4,3 +4,4 @@ this is the develop branch
 revert
 this is the comparison lecture
 this is stash lecture, change in file sample
+this stash lec change for untracked in sample
