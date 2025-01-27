@@ -1,2 +1,3 @@
 this is the develop branch
 this is the comparison lecture, change in file sample2
+this is stash lecture, change in file sample2
